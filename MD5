@@ -1,0 +1,10 @@
+ac33a23fb07795eef1d7919321046dab *DESCRIPTION
+1fcb27547573b0838c4deae6bc9ca36c *NAMESPACE
+b0f1a689ae44604a1cc099f85c91d774 *NEWS
+faa57aadf15f32bf7203fbb0b17fb48f *R/plot_horizon.r
+0c216581dd63ba3a8da5a31e73f9bd2f *R/smooth.r
+f1fa8957db34f0583ce61326b69a1962 *R/theme.r
+d7d6f480c94b233d95c876e4ba8070f2 *README.md
+36744df7d596cfcfe8fee0e678f64846 *data/stocks.rda
+a33682c8f86645e75ad856d4522daba6 *man/plot_horizon.Rd
+0138bb8ab4db8648d6b597fdbceacc36 *man/stocks.Rd
